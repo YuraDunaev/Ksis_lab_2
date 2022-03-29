@@ -1,0 +1,11 @@
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\obj\Debug\Ksis_lab_2.csproj.AssemblyReference.cache
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\obj\Debug\Ksis_lab_2.csproj.SuggestedBindingRedirects.cache
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\obj\Debug\Ksis_lab_2.Form1.resources
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\obj\Debug\Ksis_lab_2.Properties.Resources.resources
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\obj\Debug\Ksis_lab_2.csproj.GenerateResource.cache
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\obj\Debug\Ksis_lab_2.csproj.CoreCompileInputs.cache
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\bin\Debug\Ksis_lab_2.exe.config
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\bin\Debug\Ksis_lab_2.exe
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\bin\Debug\Ksis_lab_2.pdb
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\obj\Debug\Ksis_lab_2.exe
+D:\Yura\w\КСИС\Ksis_lab_2\Ksis_lab_2\obj\Debug\Ksis_lab_2.pdb
